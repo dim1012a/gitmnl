@@ -19,9 +19,7 @@
 - Генерируем **SSH ключи**. 
 
 '''bash
-$ clip < ~/.ssh/id_rsa.pub
-# для ed25519:
-$ clip < ~/.ssh/id_ed25519.pub
+    $ clip < ~/.ssh/id_ed25519.pub
 '''
 
 ### Платформа GitHub
